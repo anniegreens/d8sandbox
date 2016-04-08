@@ -10,6 +10,6 @@ Drupal Console: https://drupalconsole.com
 
 1. `git clone git@github.com:anniegreens/d8sandbox.git`
 
-2. `cd sandbox`
+2. `cd d8sandbox`
 
 3. `drupal chain --file=chain/d8sandbox.yml`
