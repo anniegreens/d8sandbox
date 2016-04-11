@@ -15,3 +15,5 @@ Drupal Console: https://drupalconsole.com
 3. `drupal chain --file=chain/d8sandbox.yml`
 
 Default login: admin/admin
+
+Once you've already spun up the site, to get your server going again; head into the site root with `cd site`, and then run `drupal server`.
