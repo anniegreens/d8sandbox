@@ -13,3 +13,5 @@ Drupal Console: https://drupalconsole.com
 2. `cd d8sandbox`
 
 3. `drupal chain --file=chain/d8sandbox.yml`
+
+Default login: admin/admin
