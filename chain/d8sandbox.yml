@@ -35,6 +35,7 @@ commands:
       content-types: 'Basic Page'
 # Provide user login URL
   - command: user:login:url
-    arguments: 1
+    arguments:
+      user-id: 1
 # Start php built-in server
   - command: server
